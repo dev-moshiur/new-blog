@@ -1,5 +1,5 @@
 import React from "react"
-import logo from "../../assets/images/logo.svg"
+import logo from "./images.png"
 import "./header.css"
 import { User } from "./User"
 import { nav } from "../../assets/data/data"
